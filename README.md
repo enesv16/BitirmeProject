@@ -1,0 +1,1 @@
+I facilitated financial transactions such as currency trading, currency alerts, and account management through a mobile application project I developed using React Native. The project enhanced my technical skills and my ability to create user-friendly solutions.
