@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PangMenZhengDao.ttf",
+      "sha1": "3b12679dcc031d6caa9a22e4483bd4defbeea61e"
+    },
+    {
+      "path": "assets/fonts/Ysabeau-Bold.ttf",
+      "sha1": "57237e3191e5697bad6ff522e6a7ceb2680bfa83"
+    },
+    {
+      "path": "assets/fonts/Ysabeau-Regular.ttf",
+      "sha1": "4af599bd66c965955519013aaea3e57c1b63d779"
+    }
+  ]
+}
